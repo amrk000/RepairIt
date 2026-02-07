@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">RepairIt</string>
+    <string name="title_activity_history">Historial</string>
+    <string name="title_activity_about">Acerca de</string>
+    <string name="language">Spanish</string>
+
+    <string name="language_en">English</string>
+    <string name="language_ar">عربي</string>
+    <string name="language_es">Español</string>
+    <string name="language_fr">Français</string>
+    <string name="language_de">Deutsch</string>
+    <string name="language_it">Italiano</string>
+    <string name="language_ja">日本語</string>
+    <string name="language_ko">한국어</string>
+
+    <!-- Common -->
+    <string name="common_share">Compartir</string>
+    <string name="common_copy">Copiar</string>
+    <string name="common_share_text">Compartir texto</string>
+    <string name="common_share_icon_description">Icono de compartir</string>
+    <string name="common_copy_icon_description">Icono de copiar</string>
+
+    <!-- Main Screen -->
+    <string name="main_camera_permission_allowed">Permiso de cámara permitido</string>
+    <string name="main_camera_permission_denied">Permiso de cámara denegado</string>
+    <string name="main_no_text_detected">No se detectó texto</string>
+
+    <!-- About Screen -->
+    <string name="about_version">Versión %s</string>
+    <string name="about_made_by">Hecho por</string>
+    <string name="about_google_play_apps">Aplicaciones de Google Play</string>
+    <string name="about_github_repo">Repositorio de Github</string>
+
+    <!-- History Screen -->
+    <string name="history_title">Historial</string>
+    <string name="history_no_history">¡Aún no hay historial de escaneos!</string>
+    <string name="history_image_description">Imagen del historial</string>
+    <string name="history_calendar_icon_description">Icono de calendario</string>
+
+    <!-- Home Components -->
+    <string name="home_logo_description">Logo de la aplicación</string>
+    <string name="home_about_description">Acerca de</string>
+    <string name="home_history_description">Historial</string>
+    <string name="home_load_image_description">Cargar imagen</string>
+    <string name="home_capture_description">Capturar</string>
+    <string name="home_disconnected">Desconectado</string>
+    <string name="home_allow_cam">Permitir CAM</string>
+    <string name="home_toggle_flash_description">Alternar flash</string>
+
+    <!-- Result View & Bottom Sheet -->
+    <string name="result_detecting">Detectando</string>
+    <string name="result_unknown">desconocido</string>
+    <string name="result_please_wait">Por favor, espere</string>
+    <string name="result_no_brand">Sin marca</string>
+    <string name="result_no_model">Sin modelo</string>
+    <string name="result_diagnosing">Diagnosticando</string>
+    <string name="result_error_title">¡Ocurrió un error!</string>
+    <string name="result_unknown_error">Error desconocido</string>
+    <string name="result_no_problem">¡No hay ningún problema!</string>
+    <string name="result_section_specs">ESPECIFICACIONES</string>
+    <string name="result_section_problem">PROBLEMA</string>
+    <string name="result_section_tools">HERRAMIENTAS REQUERIDAS</string>
+    <string name="result_section_steps">PASOS DE REPARACIÓN</string>
+    <string name="result_section_done">¡Todo listo!</string>
+    <string name="result_error_icon_description">Icono de error</string>
+    <string name="result_check_icon_description">Icono de verificación</string>
+    <string name="result_label_icon_description">Icono de etiqueta</string>
+    <string name="result_copy_label">Aplicación RepAIr It</string>
+    <string name="following_system_language">Siguiendo el lenguaje del sistema</string>
+</resources>

@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">RepairIt</string>
+    <string name="title_activity_history">History</string>
+    <string name="title_activity_about">About</string>
+    <string name="language">English</string>
+
+    <string name="language_en">English</string>
+    <string name="language_ar">عربي</string>
+    <string name="language_es">Español</string>
+    <string name="language_fr">Français</string>
+    <string name="language_de">Deutsch</string>
+    <string name="language_it">Italiano</string>
+    <string name="language_ja">日本語</string>
+    <string name="language_ko">한국어</string>
+
+    <!-- Common -->
+    <string name="common_share">Share</string>
+    <string name="common_copy">Copy</string>
+    <string name="common_share_text">Share Text</string>
+    <string name="common_share_icon_description">Share icon</string>
+    <string name="common_copy_icon_description">Copy icon</string>
+
+    <!-- Main Screen -->
+    <string name="main_camera_permission_allowed">Camera Permission Allowed</string>
+    <string name="main_camera_permission_denied">Camera Permission Denied</string>
+    <string name="main_no_text_detected">No Text Detected</string>
+
+    <!-- About Screen -->
+    <string name="about_version">Version %s</string>
+    <string name="about_made_by">Made By</string>
+    <string name="about_google_play_apps">Google Play Apps</string>
+    <string name="about_github_repo">Github Repo</string>
+
+    <!-- History Screen -->
+    <string name="history_title">History</string>
+    <string name="history_no_history">No Scans History Yet!</string>
+    <string name="history_image_description">History Image</string>
+    <string name="history_calendar_icon_description">calendar icon</string>
+
+    <!-- Home Components -->
+    <string name="home_logo_description">App Logo</string>
+    <string name="home_about_description">About</string>
+    <string name="home_history_description">History</string>
+    <string name="home_load_image_description">Load Image</string>
+    <string name="home_capture_description">Capture</string>
+    <string name="home_disconnected">Disconnected</string>
+    <string name="home_allow_cam">Allow CAM</string>
+    <string name="home_toggle_flash_description">Toggle Flash</string>
+
+    <!-- Result View & Bottom Sheet -->
+    <string name="result_detecting">Detecting</string>
+    <string name="result_unknown">unknown</string>
+    <string name="result_please_wait">Please Wait</string>
+    <string name="result_no_brand">No Brand</string>
+    <string name="result_no_model">No Model</string>
+    <string name="result_diagnosing">Diagnosing</string>
+    <string name="result_error_title">Error Happen !</string>
+    <string name="result_unknown_error">Unknown Error</string>
+    <string name="result_no_problem">There is no Problem !</string>
+    <string name="result_section_specs">SPECS</string>
+    <string name="result_section_problem">PROBLEM</string>
+    <string name="result_section_tools">REQUIRED TOOLS</string>
+    <string name="result_section_steps">REPAIR STEPS</string>
+    <string name="result_section_done">All Done !</string>
+    <string name="result_error_icon_description">Error Icon</string>
+    <string name="result_check_icon_description">Check Icon</string>
+    <string name="result_label_icon_description">Label Icon</string>
+    <string name="result_copy_label">RepAIr It APP</string>
+    <string name="following_system_language">Following System Language</string>
+</resources>

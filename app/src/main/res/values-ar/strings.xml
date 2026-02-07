@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">RepairIt</string>
+    <string name="title_activity_history">سجل المسح</string>
+    <string name="title_activity_about">حول التطبيق</string>
+    <string name="language">Arabic</string>
+
+    <string name="language_en">English</string>
+    <string name="language_ar">Arabic</string>
+    <string name="language_es">Spanish</string>
+    <string name="language_fr">French</string>
+    <string name="language_de">German</string>
+    <string name="language_it">Italian</string>
+    <string name="language_ja">Japanese</string>
+    <string name="language_ko">Korean</string>
+
+    <!-- Common -->
+    <string name="common_share">مشاركة</string>
+    <string name="common_copy">نسخ</string>
+    <string name="common_share_text">مشاركة النص</string>
+    <string name="common_share_icon_description">أيقونة المشاركة</string>
+    <string name="common_copy_icon_description">أيقونة النسخ</string>
+
+    <!-- Main Screen -->
+    <string name="main_camera_permission_allowed">تم السماح بصلاحية الكاميرا</string>
+    <string name="main_camera_permission_denied">تم رفض صلاحية الكاميرا</string>
+    <string name="main_no_text_detected">لم يتم العثور على نص</string>
+
+    <!-- About Screen -->
+    <string name="about_version">الإصدار %s</string>
+    <string name="about_made_by">صنع بواسطة</string>
+    <string name="about_google_play_apps">تطبيقات متجر بلاي</string>
+    <string name="about_github_repo">مستودع جيت هاب</string>
+
+    <!-- History Screen -->
+    <string name="history_title">السجل</string>
+    <string name="history_no_history">لا يوجد سجل حتى الآن!</string>
+    <string name="history_image_description">صورة السجل</string>
+    <string name="history_calendar_icon_description">أيقونة التقويم</string>
+
+    <!-- Home Components -->
+    <string name="home_logo_description">شعار التطبيق</string>
+    <string name="home_about_description">حول</string>
+    <string name="home_history_description">السجل</string>
+    <string name="home_load_image_description">تحميل صورة</string>
+    <string name="home_capture_description">التقاط</string>
+    <string name="home_disconnected">غير متصل</string>
+    <string name="home_allow_cam">اسمح للكاميرا</string>
+    <string name="home_toggle_flash_description">تبديل الفلاش</string>
+
+    <!-- Result View & Bottom Sheet -->
+    <string name="result_detecting">جاري التعرف</string>
+    <string name="result_unknown">غير معروف</string>
+    <string name="result_please_wait">يرجى الانتظار</string>
+    <string name="result_no_brand">لا توجد علامة تجارية</string>
+    <string name="result_no_model">لا يوجد طراز</string>
+    <string name="result_diagnosing">جاري التشخيص</string>
+    <string name="result_error_title">حدث خطأ!</string>
+    <string name="result_unknown_error">خطأ غير معروف</string>
+    <string name="result_no_problem">لا توجد مشكلة!</string>
+    <string name="result_section_specs">المواصفات</string>
+    <string name="result_section_problem">المشكلة</string>
+    <string name="result_section_tools">الأدوات المطلوبة</string>
+    <string name="result_section_steps">خطوات الإصلاح</string>
+    <string name="result_section_done">تم بنجاح!</string>
+    <string name="result_error_icon_description">أيقونة الخطأ</string>
+    <string name="result_check_icon_description">أيقونة التحقق</string>
+    <string name="result_label_icon_description">أيقونة التسمية</string>
+    <string name="result_copy_label">تطبيق RepairIt</string>
+    <string name="following_system_language">يتبع النظام</string>
+</resources>

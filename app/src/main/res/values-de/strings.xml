@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">RepairIt</string>
+    <string name="title_activity_history">Verlauf</string>
+    <string name="title_activity_about">Über</string>
+    <string name="language">German</string>
+
+    <string name="language_en">English</string>
+    <string name="language_ar">عربي</string>
+    <string name="language_es">Español</string>
+    <string name="language_fr">Français</string>
+    <string name="language_de">Deutsch</string>
+    <string name="language_it">Italiano</string>
+    <string name="language_ja">日本語</string>
+    <string name="language_ko">한국어</string>
+
+    <!-- Common -->
+    <string name="common_share">Teilen</string>
+    <string name="common_copy">Kopieren</string>
+    <string name="common_share_text">Text teilen</string>
+    <string name="common_share_icon_description">Teilen-Symbol</string>
+    <string name="common_copy_icon_description">Kopier-Symbol</string>
+
+    <!-- Main Screen -->
+    <string name="main_camera_permission_allowed">Kameraberechtigung erteilt</string>
+    <string name="main_camera_permission_denied">Kameraberechtigung verweigert</string>
+    <string name="main_no_text_detected">Kein Text erkannt</string>
+
+    <!-- About Screen -->
+    <string name="about_version">Version %s</string>
+    <string name="about_made_by">Erstellt von</string>
+    <string name="about_google_play_apps">Google Play Apps</string>
+    <string name="about_github_repo">Github Repo</string>
+
+    <!-- History Screen -->
+    <string name="history_title">Verlauf</string>
+    <string name="history_no_history">Noch kein Scan-Verlauf vorhanden!</string>
+    <string name="history_image_description">Verlauf-Bild</string>
+    <string name="history_calendar_icon_description">Kalender-Symbol</string>
+
+    <!-- Home Components -->
+    <string name="home_logo_description">App-Logo</string>
+    <string name="home_about_description">Über</string>
+    <string name="home_history_description">Verlauf</string>
+    <string name="home_load_image_description">Bild laden</string>
+    <string name="home_capture_description">Aufnehmen</string>
+    <string name="home_disconnected">Getrennt</string>
+    <string name="home_allow_cam">Kamera erlauben</string>
+    <string name="home_toggle_flash_description">Blitz umschalten</string>
+
+    <!-- Result View & Bottom Sheet -->
+    <string name="result_detecting">Erkennen...</string>
+    <string name="result_unknown">unbekannt</string>
+    <string name="result_please_wait">Bitte warten</string>
+    <string name="result_no_brand">Keine Marke</string>
+    <string name="result_no_model">Kein Modell</string>
+    <string name="result_diagnosing">Diagnostizieren...</string>
+    <string name="result_error_title">Ein Fehler ist aufgetreten!</string>
+    <string name="result_unknown_error">Unbekannter Fehler</string>
+    <string name="result_no_problem">Es gibt kein Problem!</string>
+    <string name="result_section_specs">SPEZIFIKATIONEN</string>
+    <string name="result_section_problem">PROBLEM</string>
+    <string name="result_section_tools">ERFORDERLICHE WERKZEUGE</string>
+    <string name="result_section_steps">REPARATURSCHRITTE</string>
+    <string name="result_section_done">Alles erledigt!</string>
+    <string name="result_error_icon_description">Fehler-Symbol</string>
+    <string name="result_check_icon_description">Häkchen-Symbol</string>
+    <string name="result_label_icon_description">Label-Symbol</string>
+    <string name="result_copy_label">RepAIr It App</string>
+    <string name="following_system_language">Folgende Systemsprache</string>
+</resources>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="model_gemini_3_pro">gemini-3-pro-preview</string>
+</resources>

@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">RepairIt</string>
+    <string name="title_activity_history">Cronologia</string>
+    <string name="title_activity_about">Informazioni</string>
+    <string name="language">Italean</string>
+
+    <string name="language_en">English</string>
+    <string name="language_ar">عربي</string>
+    <string name="language_es">Español</string>
+    <string name="language_fr">Français</string>
+    <string name="language_de">Deutsch</string>
+    <string name="language_it">Italiano</string>
+    <string name="language_ja">日本語</string>
+    <string name="language_ko">한국어</string>
+
+    <!-- Common -->
+    <string name="common_share">Condividi</string>
+    <string name="common_copy">Copia</string>
+    <string name="common_share_text">Condividi testo</string>
+    <string name="common_share_icon_description">Icona di condivisione</string>
+    <string name="common_copy_icon_description">Icona di copia</string>
+
+    <!-- Main Screen -->
+    <string name="main_camera_permission_allowed">Permesso fotocamera concesso</string>
+    <string name="main_camera_permission_denied">Permesso fotocamera negato</string>
+    <string name="main_no_text_detected">Nessun testo rilevato</string>
+
+    <!-- About Screen -->
+    <string name="about_version">Versione %s</string>
+    <string name="about_made_by">Creato da</string>
+    <string name="about_google_play_apps">App Google Play</string>
+    <string name="about_github_repo">Repo Github</string>
+
+    <!-- History Screen -->
+    <string name="history_title">Cronologia</string>
+    <string name="history_no_history">Nessuna cronologia di scansione ancora!</string>
+    <string name="history_image_description">Immagine cronologia</string>
+    <string name="history_calendar_icon_description">icona calendario</string>
+
+    <!-- Home Components -->
+    <string name="home_logo_description">Logo App</string>
+    <string name="home_about_description">Informazioni</string>
+    <string name="home_history_description">Cronologia</string>
+    <string name="home_load_image_description">Carica Immagine</string>
+    <string name="home_capture_description">Cattura</string>
+    <string name="home_disconnected">Disconnesso</string>
+    <string name="home_allow_cam">Consenti FOTOCAMERA</string>
+    <string name="home_toggle_flash_description">Attiva/Disattiva Flash</string>
+
+    <!-- Result View & Bottom Sheet -->
+    <string name="result_detecting">Rilevamento in corso</string>
+    <string name="result_unknown">sconosciuto</string>
+    <string name="result_please_wait">Attendere prego</string>
+    <string name="result_no_brand">Nessuna marca</string>
+    <string name="result_no_model">Nessun modello</string>
+    <string name="result_diagnosing">Diagnosi in corso</string>
+    <string name="result_error_title">Errore verificato!</string>
+    <string name="result_unknown_error">Errore sconosciuto</string>
+    <string name="result_no_problem">Non ci sono problemi!</string>
+    <string name="result_section_specs">SPECIFICHE</string>
+    <string name="result_section_problem">PROBLEMA</string>
+    <string name="result_section_tools">STRUMENTI NECESSARI</string>
+    <string name="result_section_steps">PASSAGGI PER LA RIPARAZIONE</string>
+    <string name="result_section_done">Fatto!</string>
+    <string name="result_error_icon_description">Icona errore</string>
+    <string name="result_check_icon_description">Icona spunta</string>
+    <string name="result_label_icon_description">Icona etichetta</string>
+    <string name="result_copy_label">App RepAIr It</string>
+    <string name="following_system_language">Lingua di sistema seguente</string>
+</resources>
