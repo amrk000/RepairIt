@@ -3,19 +3,12 @@
 ### Repair It turns your phone into a smart assistant. Powered by Google Gemini 3, it scans broken items with your camera to provide instant diagnoses and step-by-step repair guides.
 
 ## App Features:
-- Scan text from your camera
-- Extract text from any image
-- Copy and share text to your contacts
-- Scans history
+- Snap Anything Around With Phone Camera
+- Get Item Problem Detected Automatically
+- Step by Step instructions to help you repair item by your self
+- Supports 8 Languages
+- Snaps history with offline caching
 
-## Implementation Highlights:
-- MVVM Clean Architecture
-- Jetpack Compose
-- LiveData
-- Local History Caching (RoomDB)
-- Kotlin Coroutine & Flows
-- ML Kit
-- Dependency Injection: Hilt
 
 ## App Apk:
 <div align="center">
